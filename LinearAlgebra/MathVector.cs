@@ -26,7 +26,10 @@ namespace LinearAlgebra
             return arr.GetEnumerator();
         }
 
-        public int Dimensions => arr.Length;
+        public int Dimensions
+        {
+            get { return arr.Length; }
+        }
 
         public double this[int i]
         {
