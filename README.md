@@ -6,6 +6,9 @@
 
 Проект предоставляет класс `MathVector`, который реализует интерфейс `IMathVector` и поддерживает основные операции линейной алгебры для работы с векторами.
 
+## Основная диаграмма классов
+<img width="174" height="869" alt="class_linear_algebra_1_1_math_vector__coll__graph" src="https://github.com/user-attachments/assets/fb99c430-3adb-420a-b632-1b7dfa9c94a0" />
+
 ## Функциональность
 
 ### Основные операции
